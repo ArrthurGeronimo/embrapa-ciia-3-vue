@@ -1,0 +1,8 @@
+{
+	"nome" : "Nome do Sensor",
+	"marca" : "Nome da Marca",
+	"modelo" : "Nome do Modelo",
+	"dataFabricacao" : "2019-01-10",
+	"dataInstalacao" : "2019-01-11",
+	"unidade" : "1"
+}
